@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: yellow; /* Alterando a cor de fundo para amarelo */
+    margin: 20px;
+    text-align: center;
+    background-image: url(971.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: yellow; /* Alterando a cor do texto para amarelo */
+}
+
+h1 {
+    color: yellow; /* Alterando a cor do título para amarelo */
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ffff00 ;
+    color: blueviolet; /* Alterando a cor do texto do botão para amarelo */
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #ffff00 ;
+}
+
+#mensagem {
+    color: #ffff00 ;
+    font-weight: bold;
+}
+
+#textoAlterado {
+    color: #ffff00 ;
+    font-style: italic;
+}
+
+a {
+    color: #ffff00 ;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
